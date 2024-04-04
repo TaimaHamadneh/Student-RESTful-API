@@ -13,7 +13,7 @@ To build a REST API:
 
 - A GET requests to `/api/students?p=0`:
 It retrieves students from a MongoDB collection, sorts them by ID, and paginates the results.
-- ![image](https://github.com/TaimaHamadneh/Student-RESTful-API/assets/98472054/6180d22d-3bf3-4132-b13b-bf819c197e14)
+ ![image](https://github.com/TaimaHamadneh/Student-RESTful-API/assets/98472054/6180d22d-3bf3-4132-b13b-bf819c197e14)
 
 - A GET requests to `/api/students/:id`:
 This route retrieves information about a specific student identified by their ID.
